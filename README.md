@@ -19,4 +19,4 @@ The created tiles can be used in Leaflet by using Leaflet's `tms` option:
 L.tileLayer(tileUrl, {tms: true}).addTo(map);
 ```
 
-[!Screenshot](screenshot.jpg)
+![Screenshot](screenshot.jpg)
